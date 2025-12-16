@@ -60,7 +60,7 @@ console.log(raportMisji(misjaBeta))
 const misja = {
     nazwa: "Ekspedycja na Marsa",
     typ: "Badawcza", 
-    zaloga: ["kpt. Nowak", "dr Kowalska"],
+    zaloga: ["kpt. Nowacki", "dr Marcinka"],
     dystans: 0, 
     celeBadawcze: ["Analiza próbek gleby", "Poszukiwanie wody"],
     ladownia: {
